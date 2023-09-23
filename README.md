@@ -21,6 +21,6 @@
 - [LinkedIn](https://www.linkedin.com/in/javiergonzalezch)
 ---
 
-### How to know more about what I do...  
+### 🔍 How to know more about what I do...  
 
 - [Itch.io](https://javiergonzalezch.itch.io/)
