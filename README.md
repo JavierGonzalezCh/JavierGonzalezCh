@@ -13,7 +13,7 @@
 
 ### 👯 I’m looking to collaborate on...  
 
-I would like to help in the creation of incredible worlds
+I would like to contribute to the creation of incredible worlds
 ---
 
 ### 📫 How to reach me...  
