@@ -13,14 +13,14 @@
 
 ### 👯 I’m looking to collaborate on...  
 
-I would like to contribute to the creation of incredible worlds
+- I would like to contribute to the creation of incredible worlds
 ---
 
 ### 📫 How to reach me...  
 
-[LinkedIn](https://www.linkedin.com/in/javiergonzalezch)
+- [LinkedIn](https://www.linkedin.com/in/javiergonzalezch)
 ---
 
 ### How to know more about what I do...  
 
-[Itch.io](https://javiergonzalezch.itch.io/)
+- [Itch.io](https://javiergonzalezch.itch.io/)
