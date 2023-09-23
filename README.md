@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working on  
 
-[Jumping Game](https://github.com/JavierGonzalezCh/JumpingGame)
+- [Jumping Game](https://github.com/JavierGonzalezCh/JumpingGame)
 ---
 
 ### 🌱 I’m currently learning...  
