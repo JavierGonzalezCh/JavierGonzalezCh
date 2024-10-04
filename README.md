@@ -37,7 +37,7 @@ In my freetime, you can find me exploring my passion for game development! I enj
 
 I'm always open to discussing new projects or opportunities. You can reach me at:
 
-- [LinkedIn]([https://www.linkedin.com/in/javiergonzalezch])
+- [LinkedIn](https://www.linkedin.com/in/javiergonzalezch)
 - [Email](mailto:javiergo.2502@gmail.com)
 
 Thank you for stopping by! If you like what you see, feel free to follow me or reach out. Let's collaborate! 🤝
