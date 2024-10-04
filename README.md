@@ -15,7 +15,6 @@ I work with a variety of programming languages and frameworks, including but not
 
 I’m always looking to expand my skill set! Currently, I’m diving into:
 
-- Clean Architecture
 - Java
 - API Development
 - Unit Testing with NUnit
