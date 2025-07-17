@@ -3,7 +3,7 @@
 **Fullstack Developer | Backend Specialist | Digital Solutions Builder**
 
 📍 Bogotá, Colombia
-📫 Contact: javier.gonzalez.chima@gmail.com  
+📫 Contact: javiergo.2502@gmail.com  
 🌐 [Portfolio under construction]
 
 ---
@@ -47,7 +47,7 @@ Clean Architecture, CQRS (basic), Logging with Serilog, Unit Testing (xUnit, Jes
 
 - [`IAE Colombia`](https://www.iaecolombia.com): Landing page IAE Colombia
 - [`Grupo Lab Asesores`](https://www.grupolabasesores.com/): Landing page Grupo Lab Asesores
-- [`ERP`](https://github.com/your-username/bella-donna-bot): ERP to manage inventories
+- [`ERP`](https://erp-fe-1.onrender.com): ERP to manage inventories
 
 *(More projects in progress or private repositories.)*
 
@@ -66,7 +66,7 @@ Clean Architecture, CQRS (basic), Logging with Serilog, Unit Testing (xUnit, Jes
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)](https://github.com/your-username)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavierGonzalezCh&show_icons=true&theme=default)](https://github.com/JavierGonzalezCh)
 
 ---
 
