@@ -21,25 +21,19 @@ I'm committed to **clean code**, **best practices** (such as Clean Architecture 
 ## 🚀 Tech Stack
 
 **Languages:**  
-C#, JavaScript, TypeScript, Python, HTML, CSS, SQL
+C#, JavaScript, TypeScript, HTML, CSS, SQL
 
 **Backend:**  
-.NET Core, ASP.NET, Node.js (Express), Entity Framework Core, Prisma, Multitenancy, Background Services
+.NET Core, ASP.NET, Node.js (Express), Entity Framework Core, 
 
 **Frontend:**  
-React, Angular, Astro, TailwindCSS, Bootstrap, Vite
+NextJs, Angular, Astro, TailwindCSS, Bootstrap, Vite
 
 **Databases:**  
 SQL Server, PostgreSQL, MongoDB
 
 **DevOps & Tools:**  
-Docker, Git, GitHub, GitLab, VS Code, Visual Studio, Railway, Vercel, AWS (basic), Dokploy
-
-**APIs & Integrations:**  
-RESTful APIs, Webhooks, WhatsApp Business API, Shopify, OAuth2, Stripe, GraphQL
-
-**Other:**  
-Clean Architecture, CQRS (basic), Logging with Serilog, Unit Testing (xUnit, Jest), Swagger/OpenAPI
+Docker, Git, GitHub, VS Code, Visual Studio, Vercel, Dokploy
 
 ---
 
