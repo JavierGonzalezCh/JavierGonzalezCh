@@ -1,43 +1,73 @@
-# 👋 Welcome to My GitHub Profile!
+# 👨‍💻 Javier Leonardo González Chima
 
-Hi there! I'm Javier, a passionate software developer with a knack for creating efficient and innovative solutions. I love tackling challenges and turning ideas into reality. 🌟
+**Fullstack Developer | Backend Specialist | Digital Solutions Builder**
 
-## 🛠️ Technologies & Tools
+📍 Bogotá, Colombia
+📫 Contact: javier.gonzalez.chima@gmail.com  
+🌐 [Portfolio under construction]
 
-I work with a variety of programming languages and frameworks, including but not limited to:
+---
 
-- **Languages:** C#, JavaScript, Python, TypeScript
-- **Frameworks:** .NET, Strapi, Botpress
-- **Databases:** MySQL, SQLite, MongoDb, SQL Server
-- **Other Tools:** Git, Docker, WSL, Visual Studio, VSCode
+## 👋 About Me
 
-## 🌱 Currently Learning
+I'm a **Fullstack Developer** with a strong focus on **backend development** and a passion for building complete, scalable, and maintainable digital experiences.
 
-I’m always looking to expand my skill set! Currently, I’m diving into:
+I specialize in designing and implementing **RESTful APIs**, integrating external services, automating workflows, and deploying cloud-based applications. I have hands-on experience leading full-cycle development: from **planning and architecture** to **implementation, testing**, and **production delivery**.
 
-- Java
-- API Development
-- Unit Testing with NUnit
+I'm committed to **clean code**, **best practices** (such as Clean Architecture and SOLID principles), and **continuous learning**. My technology toolkit includes **.NET**, **Node.js**, **React**, **SQL Server**, **Docker**, and more.
 
-## 🚀 Projects
+---
 
-Here are a few projects I'm working on:
+## 🚀 Tech Stack
 
-- **E-commerce Platform:** A robust e-commerce solution for kitchenware, complete with user authentication, shopping carts, and transaction handling.
-- **API Integrations:** Building APIs to connect various services and enhance functionality, including media uploads and user management.
-- **Bot Development:** Creating interactive chatbots using Botpress to enhance user engagement.
+**Languages:**  
+C#, JavaScript, TypeScript, Python, HTML, CSS, SQL
 
-Feel free to check out my repositories for more details! 👇
+**Backend:**  
+.NET Core, ASP.NET, Node.js (Express), Entity Framework Core, Prisma, Multitenancy, Background Services
 
-## 🎮 Hobbies
+**Frontend:**  
+React, Angular, Astro, TailwindCSS, Bootstrap, Vite
 
-In my freetime, you can find me exploring my passion for game development! I enjoy creating immersive experiences using **Unity** and experimenting with game mechanics and design. I love the challenge of bringing characters and worlds to life, and I’m always excited to learn more about game design principles and technologies.
+**Databases:**  
+SQL Server, PostgreSQL, MongoDB
 
-## 📫 Connect with Me
+**DevOps & Tools:**  
+Docker, Git, GitHub, GitLab, VS Code, Visual Studio, Railway, Vercel, AWS (basic), Dokploy
 
-I'm always open to discussing new projects or opportunities. You can reach me at:
+**APIs & Integrations:**  
+RESTful APIs, Webhooks, WhatsApp Business API, Shopify, OAuth2, Stripe, GraphQL
 
-- [LinkedIn](https://www.linkedin.com/in/javiergonzalezch)
-- [Email](mailto:javiergo.2502@gmail.com)
+**Other:**  
+Clean Architecture, CQRS (basic), Logging with Serilog, Unit Testing (xUnit, Jest), Swagger/OpenAPI
 
-Thank you for stopping by! If you like what you see, feel free to follow me or reach out. Let's collaborate! 🤝
+---
+
+## 📂 Some little Projects
+
+- [`IAE Colombia`](https://www.iaecolombia.com): Landing page IAE Colombia
+- [`Grupo Lab Asesores`](https://www.grupolabasesores.com/): Landing page Grupo Lab Asesores
+- [`ERP`](https://github.com/your-username/bella-donna-bot): ERP to manage inventories
+
+*(More projects in progress or private repositories.)*
+
+---
+
+## 🛠️ How I Can Help
+
+- Building robust backend APIs from scratch
+- Automating complex business workflows
+- Designing scalable architecture (Clean Architecture)
+- Deploying with Render, Dokploy, or Render
+- Integrating third-party platforms (Shopify, Meta, Stripe)
+- Developing modern frontend with NextJs or Astro
+
+---
+
+## 📈 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)](https://github.com/your-username)
+
+---
+
+> I'm always open to collaborating on exciting projects, learning from others, and sharing knowledge. Let's connect!
